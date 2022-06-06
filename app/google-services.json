@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444300575224",
+    "project_id": "elf-symphony",
+    "storage_bucket": "elf-symphony.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444300575224:android:9a48012f42e2724b80960d",
+        "android_client_info": {
+          "package_name": "com.tilemaster.puzzle.block.matc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444300575224-o1096c5ldbsnkqoc6bmsckk7cad3kcok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsTaJ7zm4dtTJlJs0pdnQfLzIe8W6GTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444300575224-o1096c5ldbsnkqoc6bmsckk7cad3kcok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
